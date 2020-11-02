@@ -1,0 +1,7 @@
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\bin\Debug\Methods.exe.config
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\bin\Debug\Methods.exe
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\bin\Debug\Methods.pdb
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\obj\Debug\Methods.exe
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\obj\Debug\Methods.pdb
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Methods\obj\Debug\Methods.csprojAssemblyReference.cache

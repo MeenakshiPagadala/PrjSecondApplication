@@ -1,0 +1,7 @@
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\bin\Debug\Csharp_Basics.exe.config
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\bin\Debug\Csharp_Basics.exe
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\bin\Debug\Csharp_Basics.pdb
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\obj\Debug\Csharp_Basics.csprojAssemblyReference.cache
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\obj\Debug\Csharp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\obj\Debug\Csharp_Basics.exe
+C:\Users\Satya\Desktop\Meenakshi\LTI training\c#\PrjSecondApplication\Csharp_Basics\obj\Debug\Csharp_Basics.pdb
