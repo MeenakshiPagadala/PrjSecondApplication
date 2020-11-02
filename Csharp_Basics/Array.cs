@@ -14,7 +14,7 @@ namespace Csharp_Basics
             flower[0] = "Sunflower";
             flower[1] = "Jasmine";
             flower[2] = "Rose";
-            flower[3] = "Lotus";
+            flower[3] = "Some random new flower";
             Console.WriteLine(flower[0]);
             for(int i=0; i<=3; i++)
             {
