@@ -11,7 +11,7 @@ namespace Csharp_Basics
         static void Main()
         {
             string[] flower = new string[4];
-            flower[0] = "Lily";
+            flower[0] = "Sunflower";
             flower[1] = "Jasmine";
             flower[2] = "Rose";
             flower[3] = "Lotus";
